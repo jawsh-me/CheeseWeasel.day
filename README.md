@@ -1,3 +1,3 @@
-# Cheese Weasel Day!
+# Cheese Weasel Dot Day
 
-Hello world!
+This is the repository for the CheeseWeasel.Day website to celebrate Cheese Weasel Day every year. 
