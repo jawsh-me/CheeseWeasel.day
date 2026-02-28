@@ -16,7 +16,7 @@ According to everyone's most trusted source of truth, [urbandictionary.com](http
 
 ### There's even a song!
 
-{% include youtubePlayer.html id=page.youtubeId %} ptc_TMHafAM
+{% include youtubePlayer.html id=page.youtubeId %}
 
 
 ## Spread the love
@@ -33,7 +33,6 @@ I asked a machine to give me a list of cheeses, and I only had to modify a few o
 * Mozzarella
 * Brie
 * Camembert
-* Gouda
 * Swiss
 * Gouda
 * Feta
