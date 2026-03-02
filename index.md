@@ -5,7 +5,7 @@ youtubeId: ptc_TMHafAM
 
 ## What is it?
 
-Cheese Weasel Day is an "internet holiday" that is believe to have been started in the early 90's. It is often said that the holiday originally focused on Kraft American slices, and that the cheese weasel would hide a slice under good tech workers keyboards, but the holiday has grown to respect all types of cheeses. 
+Cheese Weasel Day is an "internet holiday" that is believed to have been started in the early 90's. It is often said that the holiday originally focused on Kraft American slices, and that the cheese weasel would hide a slice under good tech workers keyboards, but the holiday has grown to respect all types of cheeses. 
 
 Today, we celebrate the holiday by giving your tech folks various types of cheeses, as a thank you for the often invisible work they do. 
 
